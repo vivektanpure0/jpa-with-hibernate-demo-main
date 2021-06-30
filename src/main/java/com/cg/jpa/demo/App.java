@@ -17,7 +17,7 @@ import javax.persistence.Persistence;
 // 2. toplink - tool / implementation 
 // 3. ibatis - tool / implementation 
 
-public class App {
+public class App { 
 	public static void main(String[] args) {
 		System.out.println("Start");
 
